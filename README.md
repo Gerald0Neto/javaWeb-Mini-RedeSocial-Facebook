@@ -28,3 +28,28 @@ Este projeto é uma **mini rede social estilo Facebook**, onde os usuários pode
 ### 🔹 Tela de amigos (encontrar e gerenciar solicitações)
 ![Tela amigos](img2.png)
 
+## 📌 Funcionalidades
+
+- Login e logout de usuários
+
+- Enviar solicitação de amizade
+
+- Aceitar solicitação de amizade
+
+- Recusar solicitação de amizade
+
+- Ver amigos disponíveis
+
+## 📚 Aprendizados
+
+- Este projeto foi desenvolvido com o objetivo de praticar:
+
+- Programação web com Java, Servlets e JSP
+
+- Estrutura de banco de dados relacional com MySQL
+
+- Integração de frontend (Bootstrap) com backend em Java
+
+👨‍💻 Autor
+
+Desenvolvido por Geraldo Neto
